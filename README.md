@@ -1,5 +1,9 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
+**Student name - _Oleksandr Kulyk_**
+
+**Link to deployed application** - https://alexkuwerz.github.io/unh-homework-01/src/index.html
+
 ## Task
 
 **Refactoring** existing code (improving it without changing what it does) to meet a certain set of standards or to implement a new technology is a common task for front-end and junior developers. For this particular homework assignment, a marketing agency has hired you to refactor an existing site to make it more accessible.
